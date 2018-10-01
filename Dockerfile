@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/node-hello:1.0
+FROM k8s.gcr.io/spark:1.5.1_v3
