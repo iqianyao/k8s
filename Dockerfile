@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/spark:1.5.1_v3
+FROM gcr.io/google_containers/pause:3.1
